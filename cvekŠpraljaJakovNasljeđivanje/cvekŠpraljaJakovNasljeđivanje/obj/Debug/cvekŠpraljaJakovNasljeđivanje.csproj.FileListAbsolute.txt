@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\obj\Debug\cvekŠpraljaJakovNasljeđivanje.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\bin\Debug\cvekŠpraljaJakovNasljeđivanje.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\bin\Debug\cvekŠpraljaJakovNasljeđivanje.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\bin\Debug\cvekŠpraljaJakovNasljeđivanje.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\obj\Debug\cvekŠpraljaJakovNasljeđivanje.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovNasljeđivanje\cvekŠpraljaJakovNasljeđivanje\obj\Debug\cvekŠpraljaJakovNasljeđivanje.pdb
